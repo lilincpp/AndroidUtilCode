@@ -23,12 +23,6 @@
 * [README of Chinese][subutil-cn]
 
 
-
-## Contact
-
-[![Blog][blogSvg]][blog] [![jianshu][jianshuSvg]][jianshu] [![weibo][weiboSvg]][weibo] [![QQGroup][qqgroupSvg]][qqgroup]
-
-
 ## [Change Log][changeLog.md]
 
 
