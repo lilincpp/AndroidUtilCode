@@ -23,12 +23,6 @@
 * [README of Chinese][subutil-cn]
 
 
-## Donations
-
-If this project helps you a lot and you want to support the project's development and maintenance of this project, feel free to scan the following QR code for donation. Your donation is highly appreciated. Thank you!
-
-![donate][donate]
-
 
 ## Contact
 
